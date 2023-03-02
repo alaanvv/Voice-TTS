@@ -1,0 +1,17 @@
+{
+  "name": "voice-tts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "alaanvv",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "discord.js": "^14.7.1",
+    "enmap": "^5.9.5",
+    "libsodium-wrappers": "^0.7.11",
+    "say": "^0.16.0"
+  }
+}
