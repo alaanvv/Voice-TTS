@@ -20,6 +20,7 @@ differenciate itself from the others.
 
 ## Install
 
+- Install `ffmpeg` and add it to PATH
 - Download this repository.
 - Run `install.bat`.
 - Now the bot is ready, when you want to set it online,
