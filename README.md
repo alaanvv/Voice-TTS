@@ -1,12 +1,15 @@
-# Voice-TTS
+<div align='center'>
 
-Run the command `say` and the bot joins  
-your voice channel and say it for you.  
-Useful when someone is without microphone.  
-You can install different languages in your  
-PC and they will be available on the bot,  
-each user can choose a different voice to  
-differenciate itself from the others.
+  # Voice-TTS
+
+  Run the command `say` and the bot joins  
+  your voice channel and say it for you.  
+  Useful when someone is without microphone.  
+  You can install different languages in your  
+  PC and they will be available on the bot,  
+  each user can choose a different voice to  
+  differenciate itself from the others.
+</div>
 
 ---
 
